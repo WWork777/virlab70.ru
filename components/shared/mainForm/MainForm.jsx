@@ -73,7 +73,7 @@ function MainForm() {
 			message: formData.message,
 		}
 
-		const message = `Сообщение с заявкой: \n Имя: ${
+		const message = `Сообщение с заявкой virlab70.ru: \n Имя: ${
 			templateParams.name
 		} \n Номер телефона: ${templateParams.phone} \n Email: ${
 			templateParams.email

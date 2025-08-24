@@ -81,7 +81,7 @@ const Consult = ({ size, text }) => {
 			phone: formData.phone,
 			email: formData.email,
 		}
-		const message = `Запись на  консультацию \n Имя: ${templateParams.name} \n Номер телефона: ${templateParams.phone} \n Email: ${templateParams.email}`
+		const message = `Запись на  консультацию virlab70.ru\n Имя: ${templateParams.name} \n Номер телефона: ${templateParams.phone} \n Email: ${templateParams.email}`
 		sendMessage(message)
 		setLoading(false)
 		setFormData({
