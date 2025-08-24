@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /
+Sitemap: https://virlab54.ru/sitemap.xml
