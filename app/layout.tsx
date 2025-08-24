@@ -36,6 +36,7 @@ export default function RootLayout({
 }>) {
 	return (
 		<html lang='ru'>
+			<meta name="yandex-verification" content="8a1fec56e49dd2c8" />
 			<body className={`${rubik.variable} ${cormorant.variable} antialiased`}>
 				<Suspense fallback={<></>}>
 					<YandexMetrika />
