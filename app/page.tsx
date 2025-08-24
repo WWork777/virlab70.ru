@@ -8,7 +8,7 @@ import HomeTeam from '../components/home/home-team/home-team'
 import Brands from '../components/shared/brands/brands'
 
 export const metadata: Metadata = {
-	metadataBase: new URL('https://virlab54.ru'),
+	metadataBase: new URL('https://virlab70.ru'),
 	title: 'Создание сайтов, 3D-печать, дизайн и продвижение — IT-компания VIRLAB',
 	description:
 		'VIRLAB — профессиональная IT-компания: создаем сайты, 3D-модели, фирменный стиль, продвигаем',

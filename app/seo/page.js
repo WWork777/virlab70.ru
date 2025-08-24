@@ -1,5 +1,5 @@
 export const metadata = {
-	metadataBase: new URL('https://virlab54.ru'),
+	metadataBase: new URL('https://virlab70.ru'),
 	title: 'VIRLAB | Продвижение',
 	description: 'Телеграм-боты VIRLAB',
 	alternates: {

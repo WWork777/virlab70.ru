@@ -1,5 +1,5 @@
 export const metadata = {
-	metadataBase: new URL('https://virlab54.ru'),
+	metadataBase: new URL('https://virlab70.ru'),
 	title: 'Создание сайтов на Tilda Москва Томск — Заказать лендинг или интернет-магазин в VIRLAB',
 	description: 'Разработка современных сайтов на Tilda под ключ. Лендинги, многостраничные сайты, интернет-магазины с уникальным дизайном и адаптацией под мобильные устройства.',
 	keywords:

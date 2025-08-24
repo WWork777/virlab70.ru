@@ -1,5 +1,5 @@
 export const metadata = {
-	metadataBase: new URL('https://virlab54.ru'),
+	metadataBase: new URL('https://virlab70.ru'),
 	title: 'Портфолио VIRLAB — Наши проекты по созданию сайтов и 3D-печати',
 	description: 'Изучите проекты VIRLAB: сайты для бизнеса, онлайн-магазины, 3D-модели, логотипы и фирменный стиль. Реализованные решения по всей России.',
 	keywords:

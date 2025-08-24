@@ -1,5 +1,5 @@
 export const metadata = {
-	metadataBase: new URL('https://virlab54.ru'),
+	metadataBase: new URL('https://virlab70.ru'),
 	title: 'Разработка Telegram-ботов под бизнес — VIRLAB',
 	description: 'Создаем Telegram-ботов для бизнеса: автоматизация приема заявок, клиентская поддержка, рассылки и оповещения. Простой и удобный инструмент для бизнеса.',
 	keywords:

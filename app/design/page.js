@@ -1,5 +1,5 @@
 export const metadata = {
-	metadataBase: new URL('https://virlab54.ru'),
+	metadataBase: new URL('https://virlab70.ru'),
 	title: 'Графический дизайн, логотипы, фирменный стиль Москва Томск — VIRLAB',
 	description: 'Разработка логотипов, фирменного стиля, презентаций, баннеров и рекламных материалов для бизнеса. Креативная команда VIRLAB.',
 	keywords:

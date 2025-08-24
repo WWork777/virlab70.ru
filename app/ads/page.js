@@ -1,5 +1,5 @@
 export const metadata = {
-	metadataBase: new URL('https://virlab54.ru'),
+	metadataBase: new URL('https://virlab70.ru'),
 	title: 'Эффективное продвижение сайтов Москва Томск — Яндекс.Директ и Google Ads с VIRLAB',
 	description: 'Настраиваем рекламу в Яндекс.Директ и Google Ads, SEO-продвижение и комплексное привлечение клиентов. Результаты уже в первый месяц.',
 	keywords:

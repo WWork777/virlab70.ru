@@ -6,11 +6,11 @@ const Maps = () => {
 		<YMaps>
 			<div className='map-container'>
 				<Map 
-					defaultState={{ center: [55.039909, 82.941702], zoom: 17 }}
+					defaultState={{ center: [56.481733, 84.950928], zoom: 17 }}
 					options={{ scrollZoom: false }}
 				>
 					<Placemark 
-						geometry={[55.039909, 82.941702]} 
+						geometry={[56.481733, 84.950928]} 
 						options={{ 
 							preset: 'islands#redDotIcon', // использует красный маркер
 						}} 

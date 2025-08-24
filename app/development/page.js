@@ -1,5 +1,5 @@
 export const metadata = {
-	metadataBase: new URL('https://virlab54.ru'),
+	metadataBase: new URL('https://virlab70.ru'),
 	title: 'Создание сайтов под ключ Москва Томск — IT-компания VIRLAB',
 	description:
 		'Разработка сайтов любой сложности — лендинги, корпоративные сайты, интернет-магазины. VIRLAB — полное сопровождение и продвижение.',

@@ -1,5 +1,5 @@
 export const metadata = {
-	metadataBase: new URL('https://virlab54.ru'),
+	metadataBase: new URL('https://virlab70.ru'),
 	title: '3D-печать на заказ в VIRLAB Томск — Модели, прототипы, детали',
 	description: 'Высокоточная 3D-печать прототипов и деталей для бизнеса и частных клиентов. Современное оборудование и оперативная печать.',
 	keywords:

@@ -2,7 +2,7 @@ import './contacts.scss'
 import Maps from './partials/map'
 
 export const metadata = {
-	metadataBase: new URL('https://virlab54.ru'),
+	metadataBase: new URL('https://virlab70.ru'),
 	title: 'Контакты VIRLAB — Свяжитесь с IT-компанией для сотрудничества',
 	description:
 		'Свяжитесь с командой VIRLAB — обсудим создание вашего сайта, печать на 3D-принтере, разработку дизайна или продвижение в интернете.',
@@ -146,7 +146,7 @@ function Contacts() {
 												></path>
 											</g>
 										</svg>
-										Ипподромская улица, 19
+										Томская обл., Томск, ул. Гагарина, 13
 									</span>
 								</p>
 							</div>
